@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.zedsols.gpt4o"
+      "bundleIdentifier": "com.zedsols.gpt_4o"
     },
     "android": {
       "adaptiveIcon": {

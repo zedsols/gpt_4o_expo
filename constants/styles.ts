@@ -1,5 +1,5 @@
 import { StyleSheet } from "react-native";
-import { default as COLORS } from "~/constants/colors";
+import { COLORS } from "~/constants/colors";
 
 export const defaultStyles = StyleSheet.create({
 	btn: {

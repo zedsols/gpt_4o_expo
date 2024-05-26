@@ -11,7 +11,7 @@ import {
 	withTiming,
 } from "react-native-reanimated";
 import { ReText } from "react-native-redash";
-import { default as COLORS } from "~/constants/colors";
+import { COLORS } from "~/constants/colors";
 
 const content = [
 	{ title: "Let's create.", bg: COLORS.lime, fontColor: COLORS.pink },
